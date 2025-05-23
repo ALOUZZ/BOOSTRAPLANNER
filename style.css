@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img.aa1{
+    width: 200px;
+    align-items: center;
+}
+div.row{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    text-align: center;
+    justify-content: center;
+}
+a{
+    
+    text-decoration: none;
+    color: #ababab;
+}
+ul li a:hover{color: #00BFA5;
+
+}
+img.aa{
+    width: 50px;
+    padding-bottom: 20px;
+;
+}
+#C1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 10px;
+    padding: 10px 60px 0 60px;
+}
+.T{
+    font-size:  30px;
+    color: #00bfa5;
+    
+}
+#texte3 div p{
+    display: flex;
+    text-align: start;
+    justify-content: flex-start;
+    font-size: 100px;
+    
+
+}
+select.sel{
+    background-color: transparent;
+    border: none;
+}
+h3.h3a{
+    font-size: 20px;
+    color: white;
+}
+#C2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    column-gap: 20px;
+}
+.custom-col1{
+    color: #00bfa5;
+    font-size: 20px;
+    padding-top: 25px;
+}
+.custom-col2 ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.modif3{
+    padding-top:100px;
+    padding-bottom: 100px;
+}
+.custom-col2 ul li img{
+    width: 50px;
+}
+.custom-col2 ul li a{
+    font-size:  20px;
+}
+.custom-col2 ul li img.ab{
+    width: 100px;
+}

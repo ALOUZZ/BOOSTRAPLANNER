@@ -88,3 +88,8 @@ h3.h3a{
 .custom-col2 ul li img.ab{
     width: 100px;
 }
+
+.aze{
+    display: flex;
+    justify-content: space-around;
+}

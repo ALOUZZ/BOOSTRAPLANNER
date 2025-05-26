@@ -97,3 +97,7 @@ h3.h3a{
     justify-content: center;
     
 }
+.fd{
+    display: flex;
+    flex-direction: column;
+}

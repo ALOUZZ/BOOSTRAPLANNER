@@ -95,9 +95,13 @@ h3.h3a{
 .col-sm-12{
     display: flex;
     justify-content: center;
+
     
 }
 .fd{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
